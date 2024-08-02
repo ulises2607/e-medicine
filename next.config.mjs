@@ -8,9 +8,9 @@ const nextConfig = {
       "example.com",
     ],
   },
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
+  // eslint: {
+  //   ignoreDuringBuilds: true,
+  // },
   typescript: {
     ignoreBuildErrors: true,
   },
